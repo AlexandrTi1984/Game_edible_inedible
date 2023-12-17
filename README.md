@@ -14,7 +14,7 @@ pip install pygame
     
 ## Screenshots
 
-![App Screenshot](screenshot/pic1.png)
+![App Screenshot](pic1.gif)
 
 
 
