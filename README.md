@@ -12,7 +12,7 @@ Children's game edible inedible written using "pygame".
 pip install pygame
 ```
     
-## Screenshots
+## Screenshots / Video
 
 ![App Screenshot](pic1.gif)
 
